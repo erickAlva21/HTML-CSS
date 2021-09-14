@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+.leyenda{
+    background-color: gray;
+}
+.Encabezados{
+    background-color: grey;
+    color: red;
+}
+.cuerpo{
+    background-color: rgb(182, 180, 180);
+}
+.subrayado{
+    background-color: gray;
+    text-decoration: underline;
+    color: blue;
+}
+.verde{
+    background-color: gray;
+    text-decoration: underline;
+    color: green;
+}
+.Morado{
+    background-color: gray;
+    color: blueviolet;
+}
