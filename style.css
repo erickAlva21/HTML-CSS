@@ -12,12 +12,12 @@
     background-color: rgb(182, 180, 180);
 }
 .subrayado{
-    background-color: gray;
+   background-color: rgb(182, 180, 180);
     text-decoration: underline;
     color: blue;
 }
 .verde{
-    background-color: gray;
+    background-color: rgb(182, 180, 180);
     text-decoration: underline;
     color: green;
 }

@@ -1,0 +1,19 @@
+.desplazamiento{
+    background-color: aquamarine;
+    color: blueviolet;
+    text-decoration: overline;
+}
+body{
+    background-color: chartreuse;
+}
+.introduction{
+    color: coral;
+}
+.mislenguajes{
+    color: darkorange;
+}
+.Encabezado{
+    text-align: center;
+    color: red;
+    background-color: black;
+}
